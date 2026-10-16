@@ -1,6 +1,6 @@
 <addon id="script.module.xbmcswift2" name="xbmcswift2" provider-name="Jonathan Beluch (jbel), enen92" version="13.0.4">
   <requires>
-    <import addon="xbmc.python" version="2.14.0" />
+    <import addon="xbmc.python" version="2.14.1" />
   </requires>
   <extension library="lib" point="xbmc.python.module" />
   <extension point="xbmc.addon.metadata">
